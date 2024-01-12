@@ -36,7 +36,7 @@ export default class ResultComponent extends Component {
       </div>
       <div className="action">
         <button className='play-again'>Play Again</button>
-        <button className='back'>Back to home</button>
+        <button className='back'>Back to Home</button>
       </div>
       </div>
       
