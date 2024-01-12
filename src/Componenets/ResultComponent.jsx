@@ -3,12 +3,12 @@ import React, { Component } from 'react'
 export default class ResultComponent extends Component {
   
   render() {
-    const details = [
-      { title: "Total no of Questions", value: 15 },
-      { title: "No. of attempted Questions", value: 10 },
-      { title: "No. of Correct Answers", value: 5 },
-      { title: "No. of Incorrect Answers", value: 5 },
-    ];
+    // const details = [
+    //   { title: "Total no of Questions", value: 15 },
+    //   { title: "No. of attempted Questions", value: 10 },
+    //   { title: "No. of Correct Answers", value: 5 },
+    //   { title: "No. of Incorrect Answers", value: 5 },
+    // ];
 
     return (
           
