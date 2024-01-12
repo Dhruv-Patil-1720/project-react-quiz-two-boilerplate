@@ -15,22 +15,22 @@ export default class ResultComponent extends Component {
       <div className='container'>
       <h1 className='result'>Result</h1>
       <div className="result-box">
-        <h3>Need more practice!</h3>
+        <h3>You Need more practice!</h3>
         <h1>Your score is 20%</h1>
         <div className='summary'>
-          <p>Total number of questions</p>
+          <p>Total number of Questions</p>
           <p>15</p>
         </div>
         <div className='summary'>
-          <p>Number of attempted questions</p>
+          <p>Number of Attempted Questions</p>
           <p>9</p>
         </div>
         <div className='summary'>
-          <p>Number of correct answers</p>
+          <p>Number of Correct Answers</p>
           <p>3</p>
         </div>
         <div className='summary'>
-          <p>Number of wrong answers</p>
+          <p>Number of Wrong Answers</p>
           <p>6</p>
         </div>
       </div>
